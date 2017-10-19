@@ -1,0 +1,131 @@
+{
+  "topic": {
+    "id": 223,
+    "name": "Test topic",
+    "description": "",
+    "suggestion": "Test topic",
+    "isDirectMessage": false,
+    "lastPostedAt": null,
+    "createdAt": "2016-12-21T10:12:14Z",
+    "updatedAt": "2016-12-21T10:12:14Z"
+  },
+  "mySpace": {
+    "space": {
+      "key": "abcdefghij",
+      "name": "Joe Tech Inc.",
+      "enabled": true,
+      "imageUrl": "http://nulabapps.local:18080/nulab-account-web/spaces/abcdefghij/photo/large"
+    },
+    "myRole": "ADMIN",
+    "isPaymentAdmin": true,
+    "myPlan": {
+      "plan": {
+        "key": "typetalk.free",
+        "name": "Free Plan",
+        "limitNumberOfUsers": 10,
+        "limitTotalAttachmentSize": 1073741824
+      },
+      "enabled": true,
+      "trial": null,
+      "numberOfUsers": 7,
+      "totalAttachmentSize": 0,
+      "createdAt": "2016-01-10T02:32:29Z",
+      "updatedAt": "2016-01-20T02:32:29Z"
+    }
+  },
+  "teams": [],
+  "groups": [
+    {
+      "group": {
+        "id": 1100,
+        "key": "groupkey01",
+        "name": "Joe Tech Inc. All",
+        "suggestion": "Joe Tech Inc. All",
+        "imageUrl": "http://nulabapps.local:18080/nulab-account-web/spaces/abcdefghij/groups/groupkey01/photo/medium",
+        "createdAt": "2014-06-10T02:32:29Z",
+        "updatedAt": "2014-06-10T02:32:29Z"
+      },
+      "memberCount": 4
+    }
+  ],
+  "accounts": [
+    {
+      "id": 106,
+      "name": "chelseab",
+      "fullName": "ChelseaB",
+      "suggestion": "ChelseaB",
+      "imageUrl": "https://typetalk.com/accounts/106/profile_image.png?t=1404095549000",
+      "isBot": false,
+      "createdAt": "2014-06-30T02:32:29Z",
+      "updatedAt": "2014-06-30T02:32:29Z"
+    }
+  ],
+  "invitingAccounts": [
+    {
+      "id": 106,
+      "name": "chelseab",
+      "fullName": "ChelseaB",
+      "suggestion": "ChelseaB",
+      "imageUrl": "https://typetalk.com/accounts/106/profile_image.png?t=1404095549000",
+      "isBot": false,
+      "spaceRole": "USER",
+      "createdAt": "2014-06-30T02:32:29Z",
+      "updatedAt": "2014-06-30T02:32:29Z"
+    }
+  ],
+  "invites": [
+    {
+      "id": 203,
+      "account": null,
+      "mailAddress": "example@example.com",
+      "status": "invite"
+    }
+  ],
+  "accountsForApi": [
+    {
+      "id": 304,
+      "name": "bot",
+      "fullName": "Bot",
+      "imageUrl": "https://typetalk.com/accounts/304/profile_image.png?t=1404095549000",
+      "isBot": true,
+      "owner": null,
+      "createdAt": "2014-06-30T02:32:29Z",
+      "updatedAt": "2014-06-30T02:32:29Z"
+    }
+  ],
+  "integrations": [
+    {
+      "integration": {
+        "id": 22,
+        "linkUrl": "https://xxxxx.backlog.jp/projects/XXXXXXXX",
+        "configurationUrl": null
+      },
+      "account": {
+        "id": 7875,
+        "name": "backlog+",
+        "fullName": "Backlog",
+        "imageUrl": "https://typetalk.com/accounts/7875/profile_image.png?t=1484730029271",
+        "isBot": true,
+        "owner": {
+          "id": 104,
+          "name": "cooper",
+          "fullName": "CooperDaChopper",
+          "suggestion": "CooperDaChopper",
+          "imageUrl": "https://typetalk.com/accounts/104/profile_image.png?t=1403922749000",
+          "isBot": false,
+          "createdAt": "2014-06-28T02:32:29Z",
+          "updatedAt": "2014-06-28T02:32:29Z"
+        },
+        "createdAt": "2015-04-22T02:29:51Z",
+        "updatedAt": "2017-01-18T09:00:29Z"
+      },
+      "service": {
+        "name": "backlog",
+        "fullName": "Backlog",
+        "summary": "<a href=\"http://backlogtool.com/\" target=\"_blank\">Backlog</a> integration provides you the ability to keep up to date with various events from Backlog.",
+        "imageUrl": "https://deeb7lj8m1sjw.cloudfront.net/dfcaf70905e7b42e4225e560a0daea443c9b81f6/assets/images/integration/backlog.png"
+      }
+    }
+  ],
+  "remainingInvitations": null
+}

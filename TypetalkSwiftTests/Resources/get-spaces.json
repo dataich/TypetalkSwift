@@ -1,0 +1,35 @@
+{
+  "mySpaces": [
+    {
+      "space": {
+        "key": "abcdefghij",
+        "name": "Joe Tech Inc.",
+        "enabled": true,
+        "imageUrl": "http://nulabapps.local:18080/nulab-account-web/spaces/abcdefghij/photo/large"
+      },
+      "myRole": "ADMIN",
+      "isPaymentAdmin": true,
+      "invitableRoles": [
+        "USER",
+        "GUEST"
+      ],
+      "myPlan": {
+        "plan": {
+          "key": "typetalk.free",
+          "name": "Free Plan",
+          "limitNumberOfUsers": 10,
+          "limitTotalAttachmentSize": 1073741824
+        },
+        "enabled": true,
+        "trial": {
+          "endDate": "2016-01-10T02:32:29Z",
+          "daysLeft": 10
+        },
+        "numberOfUsers": 7,
+        "totalAttachmentSize": 0,
+        "createdAt": "2016-01-10T02:32:29Z",
+        "updatedAt": "2016-01-20T02:32:29Z"
+      }
+    }
+  ]
+}

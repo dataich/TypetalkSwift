@@ -1,0 +1,6 @@
+sources:
+  - TypetalkSwift/Requests
+templates:
+  - Sourcery/Templates
+output:
+  TypetalkSwift

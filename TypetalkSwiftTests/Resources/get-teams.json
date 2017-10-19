@@ -1,0 +1,24 @@
+{
+  "teams": [
+    {
+      "team": {
+        "id": 301,
+        "name": "Developers",
+        "imageUrl": "http://nulabapps.local:18080/nulab-account-web/spaces/abcdefghij/photo/large",
+        "createdAt": "2014-06-10T02:32:29Z",
+        "updatedAt": "2014-06-10T02:32:29Z"
+      },
+      "memberCount": 10
+    },
+    {
+      "team": {
+        "id": 302,
+        "name": "Designers",
+        "imageUrl": "http://nulabapps.local:18080/nulab-account-web/spaces/abcdefghij/photo/large",
+        "createdAt": "2014-06-10T02:32:29Z",
+        "updatedAt": "2014-06-10T02:32:29Z"
+      },
+      "memberCount": 12
+    }
+  ]
+}

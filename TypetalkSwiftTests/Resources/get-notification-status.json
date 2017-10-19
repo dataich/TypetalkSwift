@@ -1,0 +1,36 @@
+{
+  "mention": {
+    "unread": 145
+  },
+  "access": {
+    "unopened": 0
+  },
+  "invite": {
+    "team": {
+      "pending": 0
+    },
+    "topic": {
+      "pending": 0
+    }
+  },
+  "like": {
+    "receive": {
+      "hasUnread": false,
+      "readLikeId": 1626024
+    }
+  },
+  "directMessage": {
+    "unreadTopics": 0
+  },
+  "doNotDisturb": {
+    "isSuppressed": false,
+    "manual": {
+      "remainingTimeInMinutes": null
+    },
+    "scheduled": {
+      "enabled": false,
+      "start": "22:00",
+      "end": "08:00"
+    }
+  }
+}

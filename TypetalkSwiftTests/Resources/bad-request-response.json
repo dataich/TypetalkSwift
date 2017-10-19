@@ -1,0 +1,9 @@
+{
+  "errors": [
+    {
+      "field": "message",
+      "name": "error.postMessage.required",
+      "message": "message or fileKeys required."
+    }
+  ]
+}
